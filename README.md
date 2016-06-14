@@ -1,2 +1,13 @@
-# classman
-class management system for wechat
+# classman 简介
+一个班级管理工具，可以进行微信操作和网页操作，主要包括事务通知、班级活动管理、文件管理、意见反馈等功能。
+# 系统部署
+将项目下载后，进行 npm install，下载相应的模块包；如果有提示某个模块 not found 请也进行 npm install xxx --save，下载xxx模块
+# 使用帮助
+管理员（苑委、支委）和同学具有不同的权限。但是操作比较简单，可以在网页上或是微信上直接尝试。
+# 开发人员信息
+姓名：王奕超
+学号：1501211000
+# 欢迎交流改进
+qq：740334349
+微信：futuresmile_c
+
